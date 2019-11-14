@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#keys
+gkey ="AIzaSyAUZt50ZdS_fhQO14NDUerD0hwCFp7wciY"
+wkey ="e19cb5e147f5fe43ae70746d48842921"
